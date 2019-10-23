@@ -1,0 +1,38 @@
+# Site settings
+title: Watson Machine Learning with IBM Cloud Pak for Data -- Predicting Home Value 
+description: >-
+  In this workshop, we will walk through creating a machine learning model using IBM Watson Machine Learning and IBM DB2 while utilizing IBM Cloud Pak for Data.
+baseurl: "/workshop" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tmarkiewicz
+github_username:  tmarkiewicz
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Authors
+authors:
+  - name: Tom Markiewicz
+    twitter: tmarkiewicz
+    github: tmarkiewicz
+
+collections:
+  # object_detection:
+  #   output: true
+  #   permalink: /object-detection/:path:output_ext
+  cpd-wml:
+    output: true
+    permalink: /cpd-wml/:path:output_ext
+
+defaults:
+  # - scope:
+  #     path: ""
+  #     type: "object_detection"
+  #   values:
+  #     layout: index
+  - scope:
+      path: ""
+      type: "cpd-wml"
+    values:
+      layout: index
