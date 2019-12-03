@@ -34,6 +34,7 @@ After completing this workshop, you'll understand how to:
 
 ## Prerequisites
 * **Recommended:** A basic understanding of using terminal
+* **Required:** Access to a Cloud Pak for Data instance running at least version 2.1
 
 ## Agenda
 * Understanding Private, Public, and Hybrid Clouds 
