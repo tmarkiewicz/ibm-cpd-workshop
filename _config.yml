@@ -24,13 +24,16 @@ collections:
   cpd-wml:
     output: true
     permalink: /cpd-wml/:path:output_ext
+  accelerator:
+    output: true
+    permalink: /accelerator/:path:output_ext
 
 defaults:
-  # - scope:
-  #     path: ""
-  #     type: "object_detection"
-  #   values:
-  #     layout: index
+  - scope:
+      path: ""
+      type: "accelerator"
+    values:
+      layout: index
   - scope:
       path: ""
       type: "cpd-wml"
