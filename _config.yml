@@ -1,5 +1,5 @@
 # Site settings
-title: Watson Machine Learning with IBM Cloud Pak for Data -- Predicting Home Value 
+title: IBM Cloud Pak for Data - Workshops
 description: >-
   In this workshop, we will walk through creating a machine learning model using IBM Watson Machine Learning and IBM DB2 while utilizing IBM Cloud Pak for Data.
 baseurl: "/ibm-cpd-workshop" # the subpath of your site, e.g. /blog
@@ -27,8 +27,16 @@ collections:
   accelerator:
     output: true
     permalink: /accelerator/:path:output_ext
+  discovery:
+    output: true
+    permalink: /discovery/:path:output_ext
 
 defaults:
+  - scope:
+      path: ""
+      type: "discovery"
+    values:
+      layout: index
   - scope:
       path: ""
       type: "accelerator"
