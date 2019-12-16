@@ -3,7 +3,7 @@ title: Workshop Prep
 date: 1970-01-03
 ---
 
-In order to complete this workshop, we have prepared a notebook as well as provided a dataset that we will be using to train our prediction model.
+In order to complete this workshop, we have provided data that we will be using import into Watson Discovery.
 
 ## Sign in to Cloud Pak for Data
 Before we get started, load your Cloud Pak for Data instance in your web browser. Enter your username and password, verifying you can see the dashboard.
@@ -14,5 +14,4 @@ Next, clone the repo from GitHub:
 `git clone https://github.com/tmarkiewicz/ibm-cpd-workshop`
 
 ### About the repository
-* `_accelerator/notebooks` this is where the Jupyter Notebook can be found which prepares our data, builds, trains, and deploys our model
-* `__accelerator/data` this is where the training dataset can be found
+* `_discovery/data` this is where the data can be found

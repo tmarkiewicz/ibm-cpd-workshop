@@ -15,4 +15,4 @@ Next, clone the repo from GitHub:
 
 ### About the repository
 * `_accelerator/notebooks` this is where the Jupyter Notebook can be found which prepares our data, builds, trains, and deploys our model
-* `__accelerator/data` this is where the training dataset can be found
+* `_accelerator/data` this is where the training dataset can be found

@@ -18,7 +18,7 @@ If you'd like to continue your exploration of CPD, here are a few ideas:
 <!-- TODO: find some related code patterns -->
 * [Infuse AI into your application](https://developer.ibm.com/patterns/infuse-ai-into-your-application)
 
-### Watch additional videos
+### Watch additional videos on Cloud Pak for Data
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UL_jXJoRPdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzXA3qhfaq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

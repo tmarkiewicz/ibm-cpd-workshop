@@ -49,7 +49,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 For more information, you can view a video overview of ...
 
-TK include a video
+TK include a video...?
 
 ## Goals
 After completing this workshop, you'll understand how to:
