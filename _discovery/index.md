@@ -10,11 +10,15 @@ date: 1970-01-01
 <br />
 
 ## What you will build
-descriotion paragraph of what we're building
+In this workshop, we walk you through a working example of a web application that utilizes multiple Watson services on [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to create a better customer care experience.
 
-In this workshop, we'll use [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to ...
+Using the Watson Discovery, document queries will be focused to search the most relevant information found in a typical owner's manual.
 
-In addition to exploring Watson Discovery and Assistant, we'll also examine IBM Cloud Pak for Data and discuss the differences between public, private, and hybrid clouds.
+Using Watson Assistant, we will use a standard customer care dialog to handle a typical conversation between a custmomer and a company representitive. When a customer question involves operation of a product, the Assistant dialog will communicate with the Discovery service using a webhook.
+
+The webhook will be created by defining a web action using IBM Cloud Functions (Apache OpenWhisk).
+
+In addition to exploring Watson Discovery, Assistant, and Cloud Functions, we'll also examine IBM Cloud Pak for Data and discuss the differences between public, private, and hybrid clouds.
 
 ![](assets/ICP4D-sign-in.png)
 
