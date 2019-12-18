@@ -3,14 +3,15 @@ title: What's next?
 date: 1970-01-31
 ---
 
-Congratulations, you've made it! Our accelerator is now ready to use.
+Congratulations, you've made it! Our customer care app is now ready to use.
 
 ## Next steps
+This workshop was based off of the following code pattern: [https://developer.ibm.com/patterns/enhance-customer-help-desk-with-smart-document-understanding](https://developer.ibm.com/patterns/enhance-customer-help-desk-with-smart-document-understanding/). Take a look and explore adding Smart Document Understabnding to further enhance the queries to Discovery.
 
 ### Homework
-If you'd like to continue your exploration of CPD, here are a few ideas:
+If you'd like to continue your exploration of Cloud Pak for Data, here are a few ideas:
 
-1. Setup your own Cloud Pak for Data (CPD) instance
+1. Setup your own Cloud Pak for Data instance
 2. Read and watch more developer-focused information and tutorials at [IBM Developer](https://developer.ibm.com/)
 3. TK
 
