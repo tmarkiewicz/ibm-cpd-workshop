@@ -5,7 +5,7 @@ date: 1970-01-01
 
 ![](assets/private-cloud-leadspace@2x.jpg)
 
-# Enhancing customer helpdesks with Watson Discovery and Assistant on IBM Cloud Pak for Data
+# Enhancing customer help desks with Watson Discovery and Assistant on IBM Cloud Pak for Data
 
 <br />
 
