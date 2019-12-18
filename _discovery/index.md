@@ -25,24 +25,17 @@ In addition to exploring Watson Discovery, Assistant, and Cloud Functions, we'll
 
 ### What is Watson Discovery?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Watson Discovery](https://www.ibm.com/cloud/watson-discovery) is an award-winning cloud search and AI search technology that breaks open data silos and retrieves specific answers to your questions while analyzing trends and relationships buried in enterprise data. Watson Discovery applies the latest breakthroughs in machine learning, including natural language processing capabilities, and is easily trained on the language of your domain. Unlike competitors, a Watson Discovery search app can be deployed on any cloud or on-premises environment.
 
 ### What is Watson Assistant?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Watson Assistant](https://www.ibm.com/cloud/watson-assistant/) is IBM’s AI product that lets you build, train, and deploy conversational interactions into any application, device, or channel.
 
+Most chatbots try to mimic human interactions, which can frustrate users when a misunderstanding arises. Watson Assistant is more. It knows when to search for an answer from a knowledge base, when to ask for clarity and when to direct users to a human. Watson Assistant can be deployed in any cloud or on-premises environment – meaning smarter AI is finally available wherever you need it.
 
 ### What are webhooks and Apache OpenWhisk (and IBM Cloud Functions)?
+
+Based on Apache OpenWhisk, [IBM Cloud Functions](https://www.ibm.com/cloud/functions) is a polyglot functions-as-a-service (FaaS) programming platform for developing lightweight code that scalably executes on demand.
 
 A webhook is a mechanism that allows you to call out to an external program based on something happening in your program. When used in a Watson Assistant dialog skill, a webhook is triggered when the Assistant processes a node that has a webhook enabled. The webhook collects data that you specify or that you collect from the user during the conversation and save in context variables, and sends the data to the Webhook request URL as an HTTP POST request. The URL that receives the webhook is the listener. It performs a predefined action using the information that is provided by the webhook as specified in the webhook definition, and can optionally return a response.
 
