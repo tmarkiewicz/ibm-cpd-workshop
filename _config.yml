@@ -17,6 +17,8 @@ authors:
     twitter: tmarkiewicz
     github: tmarkiewicz
 
+exclude: ['_discovery/app/']
+
 collections:
   # object_detection:
   #   output: true
