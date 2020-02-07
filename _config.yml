@@ -32,11 +32,19 @@ collections:
   discovery:
     output: true
     permalink: /discovery/:path:output_ext
+  assistant:
+    output: true
+    permalink: /assistant/:path:output_ext
 
 defaults:
   - scope:
       path: ""
       type: "discovery"
+    values:
+      layout: index
+  - scope:
+      path: ""
+      type: "assistant"
     values:
       layout: index
   - scope:
