@@ -48,9 +48,9 @@ In our workshop, the webhook will communicate with an IBM Cloud Functions web ac
 ## Goals
 After completing this workshop, you'll understand how to:
 * Find your way around IBM Cloud Pak for Data.
-* Understand the IBM Watson Discovery
-* Understand the IBM Watson Assistant
-* Understand the Apache OpenWhisk and IBM Cloud Functions
+* Understand IBM Watson Discovery
+* Understand IBM Watson Assistant
+* Understand Apache OpenWhisk and IBM Cloud Functions
 
 ## Estimated length of workshop
 * 2-3 hours
