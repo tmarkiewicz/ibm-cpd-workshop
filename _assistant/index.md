@@ -11,11 +11,11 @@ date: 1970-01-01
 
 ## What you will build
 
-In this workshop, we walk you through a working example of a customer service app that utilizes two Watson services on [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to create a better customer care experience. Here, we use the typical customer care chatbot experience but instead of relying on predefined responses, our dialog will use a search skill that can call out to IBM Watson Discovery for additional sources of information. In our case, it will be an owners manual that has been uploaded into Watson Discovery.
+In this workshop, we walk you through a working example of a customer service app that utilizes two Watson services on [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data) to create a better customer care experience. Here, we use the typical customer care chatbot experience but instead of relying on predefined responses, our dialog will use a [search skill](https://cloud.ibm.com/docs/assistant?topic=assistant-skill-search-add) that can call out to IBM Watson Discovery for additional sources of information. In our case, it will be an owners manual that has been uploaded into Watson Discovery.
 
-Using Watson Discovery, document queries will be focused to search the most relevant information found in a typical owner's manual.
+Using [Watson Discovery](https://www.ibm.com/cloud/watson-discovery), document queries will be focused to search the most relevant information found in a typical owner's manual.
 
-Using Watson Assistant, we'll use a standard customer care dialog to handle a typical conversation between a custmomer and a company representitive. When a customer question involves operation of a product, the Assistant dialog will communicate with the Discovery service using a search skill.
+Using [Watson Assistant](https://www.ibm.com/cloud/watson-assistant), we'll use a standard customer care dialog to handle a typical conversation between a custmomer and a company representitive. When a customer question involves operation of a product, the Assistant dialog will communicate with the Discovery service using a search skill.
 
 In addition to exploring Watson Discovery and Assistant,we'll also examine IBM Cloud Pak for Data and discuss the differences between public, private, and hybrid clouds.
 
