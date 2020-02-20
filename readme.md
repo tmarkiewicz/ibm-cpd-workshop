@@ -15,6 +15,7 @@ To view the app deployed locally:
 To view the app published on the web:
 [https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html)
 
+<br /><br />
 ### Discovery/Assistant with Search Skills Workshop
 The workshop files are under the _assistant directory
 
@@ -24,6 +25,7 @@ To view the app deployed locally:
 To view the app published on the web:
 [https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html)
 
+<br /><br />
 ### Discovery/Assistant with Cloud Functions Workshop
 The workshop files are under the _discovery directory
 
