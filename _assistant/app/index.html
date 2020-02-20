@@ -1,0 +1,19 @@
+<html>
+<head></head>
+<body>
+    <title>My Test Page</title>
+    <p>The body of my page.</p>
+
+    <!-- paste copied script here -->
+	<script src="https://web-chat.global.assistant.watson.cloud.ibm.com/loadWatsonAssistantChat.js"></script>
+	<script>
+	  window.loadWatsonAssistantChat({
+	    integrationID: "7d2ff348-1e80-4903-ab5a-a69327890b65", // The ID of this integration.
+	    region: "us-south" // The region your integration is hosted in.
+	  }).then(function(instance){
+	    instance.render();
+	  });
+	</script>
+
+    </body>
+</html>
