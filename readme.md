@@ -1,39 +1,38 @@
-# Introduction
+To deploy locally:
 
-## Workshop title
+``` console
+bundle install
 
-Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. The goals of this workshop are:
+jekyll serve
+```
 
-* Goals!
-* Have fun!
+### Watson Machine Learning Home Price Workshop
+The workshop files are under the _cpd-wml directory
 
-## About this workshop
+To view the app deployed locally:
+[http://127.0.0.1:4000/ibm-cpd-workshop/cpd-wml/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/cpd-wml/index.html)
 
-The introductory page of the workshop is broken down into the following sections:
+To view the app published on the web:
+[https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html)
 
-* Agenda
-* Compatibility
-* Technology Used
-* Credits
+<br />
 
-## Agenda
+### Discovery/Assistant with Search Skills Workshop
+The workshop files are under the _assistant directory
 
-|  |  |
-| :--- | :--- |
-| Exercise 0: Pre-work | Pre-work for the project |
-| Exercise 1: Some Exercise | Exercise to do the thing |
+To view the app deployed locally:
+[http://127.0.0.1:4000/ibm-cpd-workshop/assistant/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/assistant/index.html)
 
-## Compatibility
+To view the app published on the web:
+[https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html)
 
-This workshop has been tested on the following platforms:
+<br />
 
-* **osName**: version X, version Y
+### Discovery/Assistant with Cloud Functions Workshop
+The workshop files are under the _discovery directory
 
-## Technology Used
+To view the app deployed locally:
+[http://127.0.0.1:4000/ibm-cpd-workshop/discovery/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/discovery/index.html)
 
-* Brief Description
-
-## Credits
-
-* [Full Name](https://github.com/githubid)
-
+To view the app published on the web:
+[https://tmarkiewicz.github.io/ibm-cpd-workshop/discovery/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/discovery/index.html)
