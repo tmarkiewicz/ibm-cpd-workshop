@@ -1,38 +1,39 @@
-To deploy locally:
+# Introduction
 
-``` console
-bundle install
+## Workshop title
 
-jekyll serve
-```
+Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. The goals of this workshop are:
 
-### Watson Machine Learning Home Price Workshop
-The workshop files are under the _cpd-wml directory
+* Goals!
+* Have fun!
 
-To view the app deployed locally:
-[http://127.0.0.1:4000/ibm-cpd-workshop/cpd-wml/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/cpd-wml/index.html)
+## About this workshop
 
-To view the app published on the web:
-[https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/cpd-wml/index.html)
+The introductory page of the workshop is broken down into the following sections:
 
-<br />
+* Agenda
+* Compatibility
+* Technology Used
+* Credits
 
-### Discovery/Assistant with Search Skills Workshop
-The workshop files are under the _assistant directory
+## Agenda
 
-To view the app deployed locally:
-[http://127.0.0.1:4000/ibm-cpd-workshop/assistant/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/assistant/index.html)
+|  |  |
+| :--- | :--- |
+| Exercise 0: Pre-work | Pre-work for the project |
+| Exercise 1: Some Exercise | Exercise to do the thing |
 
-To view the app published on the web:
-[https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/assistant/index.html)
+## Compatibility
 
-<br />
+This workshop has been tested on the following platforms:
 
-### Discovery/Assistant with Cloud Functions Workshop
-The workshop files are under the _discovery directory
+* **osName**: version X, version Y
 
-To view the app deployed locally:
-[http://127.0.0.1:4000/ibm-cpd-workshop/discovery/index.html](http://127.0.0.1:4000/ibm-cpd-workshop/discovery/index.html)
+## Technology Used
 
-To view the app published on the web:
-[https://tmarkiewicz.github.io/ibm-cpd-workshop/discovery/index.html](https://tmarkiewicz.github.io/ibm-cpd-workshop/discovery/index.html)
+* Brief Description
+
+## Credits
+
+* [Full Name](https://github.com/githubid)
+
